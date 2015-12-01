@@ -6,3 +6,5 @@ You have to change USERNAME, PASSWORD with your Instagram account's insformation
 CAUTION!!!
 THIS WAY OF UPLOADING PHOTOS TO IS VIOLATES THE RULES OF INSTAGRAM!!!
 CAUTION!!!
+
+I thank Lukecyca for his Python Instagram Uploader port!
