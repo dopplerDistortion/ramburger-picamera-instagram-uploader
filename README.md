@@ -7,4 +7,4 @@ CAUTION!!!
 THIS WAY OF UPLOADING PHOTOS TO IS VIOLATES THE RULES OF INSTAGRAM!!!
 CAUTION!!!
 
-I thank Lukecyca for his Python Instagram Uploader port!
+I thank [Lukecyca](https://github.com/lukecyca/python-instagram-upload) for his Python Instagram Uploader port!
